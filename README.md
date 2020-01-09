@@ -1,7 +1,6 @@
 # ICT_CoC_Gemstone
 
-ICT_CoC_해커톤
-
+2019-08-30 ~ 2019-08-31 무박 2일 동안 진행된 ICT_CoC_해커톤 자료입니다.
 
 # Members of Team Gemstone
 
